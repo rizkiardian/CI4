@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
@@ -60,3 +61,18 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - json (enabled by default - don't turn it off)
 - [mysqlnd](http://php.net/manual/en/mysqlnd.install.php) if you plan to use MySQL
 - [libcurl](http://php.net/manual/en/curl.requirements.php) if you plan to use the HTTP\CURLRequest library
+=======
+README.md 
+
+git init 
+
+git add . 
+
+git commit -m "committt" 
+
+git branch -M gh-pages 
+
+git remote add origin https://github.com/rizkiardian/CI4.git 
+
+git push -u origin gh-pages
+>>>>>>> 468ace2eec68506295f9f8310c18822b6bc520b0
